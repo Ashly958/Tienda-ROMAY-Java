@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lapiz",
+    "precio": 1000.0,
+    "cantidad": 20
+  },
+  {
+    "id": 2,
+    "nombre": "Cuaderno",
+    "precio": 2500.0,
+    "cantidad": 20
+  },
+  {
+    "id": 3,
+    "nombre": "Borrador",
+    "precio": 800.0,
+    "cantidad": 49
+  },
+  {
+    "id": 4,
+    "nombre": "Regla",
+    "precio": 1500.0,
+    "cantidad": 20
+  },
+  {
+    "id": 5,
+    "nombre": "Tijeras",
+    "precio": 3000.0,
+    "cantidad": 15
+  }
+]
